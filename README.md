@@ -32,7 +32,13 @@ Build and run the <i>JBChartViewDemo</i> project in Xcode. The demo demonstrates
 
 ## Installation
 
-<a href="http://cocoapods.org/" target="_blank">CocoaPods</a> is the recommended method of installing JBChartView.
+<a href="http://cocoapods.org/" target="_blank">CocoaPods</a>/<a href="https://github.com/Carthage/Carthage" target="_blank">Carthage</a> are the recommended methods of installing JBChartView.
+
+### Carthage Way
+
+Simply add the following line to your <code>Cartfile</code>:
+
+	github "Jawbone/JBChartView"
 
 ### The Pod Way
 
