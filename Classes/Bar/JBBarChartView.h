@@ -7,7 +7,7 @@
 //
 
 // Views
-#import "JBChartView.h"
+#import "JBChartView_.h"
 
 @class JBBarChartView;
 

@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Jawbone. All rights reserved.
 //
 
-#import "JBChartView.h"
+#import "JBChartView_.h"
 
 // Numerics
 CGFloat const kJBChartViewDefaultAnimationDuration = 0.25f;
